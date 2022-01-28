@@ -1,0 +1,2 @@
+# ejercicioGIT
+Jenifer Resendiz Flores 
